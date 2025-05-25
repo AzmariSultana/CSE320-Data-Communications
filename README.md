@@ -1,3 +1,3 @@
-*CSE320-Data Communications
+CSE320-Data Communications
 
 This course will present an introduction to purpose and methods of communication. First of all, the course will cover the principles of networking by using the protocol layering of the Internet and the TCP/IP protocol suite. Starting from the Physical layer, this course will cover the concepts of analog and digital data and signals , their performance measurements, effects of noise and control. Next, some basic concepts such as data rate limits, analog to digital conversion methods, modulation and bandwidth utilization techniques are discussed in this course. Lastly, Data Link layer concepts and services such as error detection and multiple-access protocols are explained.
